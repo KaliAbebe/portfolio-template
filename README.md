@@ -1,2 +1,2 @@
-# portfolio-template2
+# portfolio-template
 My example portfolio website
